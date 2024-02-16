@@ -1,3 +1,3 @@
-This program is a tool which can solve soduku game.
+This program is a tool which can solve sudoku game.
 uses DFS
 made by rbzzx
